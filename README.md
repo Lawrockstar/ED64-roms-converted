@@ -1,2 +1,2 @@
-# ED64 converted roms
-# ED64 roms convertidas
+# ED64/Everdrive 64 converted roms /gamegear, nes, snes, gb, gbc
+# ED64/Everdrive 64 roms convertidas /gamegear, nes, snes, gb, gbc
